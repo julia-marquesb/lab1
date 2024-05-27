@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+}
+
+html{
+    font-size: 20px; 
+    font-family: Georgia, serif; /
+}
+
+img{
+    display: block;
+    margin: auto;
+
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+.paragraph
+{
+    color: black;
+    text-align: center;
+}
+
+
+#secparag{
+ font-size: 14px;
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 12px;
+    text-align: center;
+}
+
+th{
+    background-color: white;
+}
